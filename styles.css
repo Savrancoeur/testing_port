@@ -40,6 +40,12 @@ p {
   color: #666;
 }
 
+.icons {
+  text-decoration: none;
+  margin: 20px 10px;
+  color: #000;
+}
+
 hr {
   border: none;
   border-top: 1px solid #eee;
@@ -68,7 +74,7 @@ p {
   line-height: 1.6;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 500px) {
   .section {
     width: 30%;
   }
